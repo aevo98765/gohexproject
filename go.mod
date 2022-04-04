@@ -1,3 +1,3 @@
-module hex
+module gohexproject
 
 go 1.16

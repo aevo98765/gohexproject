@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"hex/internal/adapters/core/arithmetic"
+	"gohexproject/internal/adapters/core/arithmetic"
 )
 
 func main() {
